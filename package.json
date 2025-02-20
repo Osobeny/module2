@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-typescript-template",
-  "version": "1.439.0",
-  "description": "A template for a nodejs application, using typescript",
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "Module work number 2 on Verification and Validation",
   "main": "dist/src/index.js",
   "author": "",
   "license": "MIT",
